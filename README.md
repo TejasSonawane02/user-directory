@@ -162,13 +162,3 @@ Returns an array of 10 mock user objects with fields including:
 - **Responsive Grid** — Auto-filling CSS Grid that adapts from 1 to 3 columns
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  Made with ❤️ using React + Vite
-</p>
